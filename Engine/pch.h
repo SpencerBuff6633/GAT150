@@ -10,4 +10,20 @@
 // add headers that you want to pre-compile here
 #include "framework.h"
 
+#include "Math/Math2.h"
+#include "Math/Random.h"
+#include "Math/Transform.h"
+#include "Math/Color.h"
+
+#include <SDL_image.h>
+#include <SDL.h>
+
+#include <iostream>
+#include <fstream>
+#include <string>
+#include <vector>
+#include <list>
+#include <map>
+#include <chrono>
+
 #endif //PCH_H
